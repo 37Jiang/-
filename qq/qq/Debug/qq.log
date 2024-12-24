@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\user\Downloads\main.cpp(37,2): error C2059: 语法错误:“...”
+C:\Users\user\Downloads\main.cpp(80,5): error C2084: 函数“int main(void)”已有主体
+C:\Users\user\Downloads\main.cpp(33): message : 参见“main”的前一个定义
+C:\Users\user\Downloads\main.cpp(217,19): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\user\Downloads\main.cpp(273,19): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\user\Downloads\main.cpp(282,20): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\user\Downloads\main.cpp(446,25): error C2065: “z”: 未声明的标识符
+C:\Users\user\Downloads\main.cpp(447,2): error C2146: 语法错误: 缺少“;”(在标识符“settextstyle”的前面)
